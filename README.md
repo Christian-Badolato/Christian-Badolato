@@ -9,13 +9,12 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/christian-badolato/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-CHRISTIAN%20BADOLATO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
 <a href="mailto:christianbadolato16@gmail.com">
-  <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 
 </p>
 
@@ -26,8 +25,7 @@
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 
 ### Frontend
 
