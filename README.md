@@ -1,6 +1,8 @@
-# Olá👋, Me chamo Christian Badolato
+#👋 Olá! Me chamo Christian Badolato
 
-🚀 ** Atualmente estou cursando Análise e Desenvolvimento de Sistemas**
+💻 Técnico em Eletrônica em transição para o desenvolvimento de software.
+  Atualmente cursando Análise e Desenvolvimento de Sistemas pela Unicid.
+
 
 ---
 
