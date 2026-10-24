@@ -1,6 +1,6 @@
 # Olá👋, Me chamo Christian Badolato
 
-🚀 ** Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
+🚀 ** Atualmente estou cursando Análise e Desenvolvimento de Sistemas**
 
 ---
 
@@ -11,37 +11,24 @@
 <a href="https://www.linkedin.com/in/christian-badolato/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-CHRISTIAN%20BADOLATO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
+<a href="mailto:christianbadolato16@gmail.com">
+  <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 </p>
 
 ---
 
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Linguagens 
 
 ### Frontend
 
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
