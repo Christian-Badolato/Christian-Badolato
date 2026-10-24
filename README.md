@@ -2,7 +2,7 @@
 
 💻 Técnico em Eletrônica em transição para o desenvolvimento de software.
   
-   ° Atualmente cursando Análise e Desenvolvimento de Sistemas pela Unicid.
+  --> Atualmente cursando Análise e Desenvolvimento de Sistemas pela Unicid.
 
 
 ---
